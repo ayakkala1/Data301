@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Anish-Approved%20%3A%20%5E%20-green.svg)
+
 # Data301
 
 DATA 301. Introduction to Data Science. 4 units
