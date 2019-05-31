@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Anish-Approved%20%3A%20%5E%20-green.svg)
+![](https://img.shields.io/badge/Anish-Approved-brightgreen.svg)
 
 # Data301
 
